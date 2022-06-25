@@ -54,7 +54,7 @@ event.target.classList.add("selected");
 
 ### Continued development
 
-I'm not sure how they got the correct gradient with the colors provided.
+I'm not sure how they got the correct gradient with the colors provided. I need to work on organizing my CSS better because it seems like I'm altering a lot of small values to try and make things look perfect. It ends up becoming quite hard to work with.
 
 ### Useful resources
 
